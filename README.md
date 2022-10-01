@@ -13,5 +13,6 @@ to sites where I got certificates (required to prove that I have taken certain c
 ```
 > **Websites, courses with tasks, mini-projects:**
 >> ["Поколение Python": курс для начинающих / "Python Generation": A course for beginners](https://stepik.org/course/58852/info)
+
 > **My certificates, diplomas:**
 >> ["Поколение Python": курс для начинающих / "Python Generation": A course for beginners](https://stepik.org/cert/1691205)
