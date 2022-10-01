@@ -10,6 +10,6 @@ And of course tasks, which will be much less strings than projects written by TO
 Below I will provide links to the sources where the projects, tasks, and possible training mini-projects were taken from, 
 as well as referrals 
 to sites where I got certificates (required to prove that I have taken certain courses and gained programming experience).
+```
 > Websites, courses with tasks, mini-projects:
 >> ["Поколение Python": курс для начинающих / "Python Generation": A course for beginners] https://stepik.org/course/58852/info
-```
