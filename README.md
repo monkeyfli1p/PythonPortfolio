@@ -8,11 +8,12 @@ These will be projects that are sufficiently complex in scope,
 and also mini-projects that are required to consolidate all the theoretical experience in my future career. 
 And of course tasks, which will be much less strings than projects written by TOR 
 or self-written for fun and design experience.
-Below I will provide links to the sources where the projects, tasks, 
+```
+__Below I will provide links to the sources where the projects, tasks, 
 and possible training mini-projects were taken from, as well as referrals 
 to sites where I got certificates 
-(required to prove that I have taken certain courses and gained programming experience).
-```
+(required to prove that I have taken certain courses and gained programming experience).__
+
 > **Websites, courses with tasks, mini-projects:**
 >> ["Поколение Python": курс для начинающих / "Python Generation": A course for beginners](https://stepik.org/course/58852/info)
 
