@@ -11,6 +11,6 @@ Below I will provide links to the sources where the projects, tasks, and possibl
 as well as referrals 
 to sites where I got certificates (required to prove that I have taken certain courses and gained programming experience).
 ```
-> Websites, courses with tasks, mini-projects:
+> **bold** Websites, courses with tasks, mini-projects: **bold**
 >> ["Поколение Python": курс для начинающих / "Python Generation": A course for beginners](https://stepik.org/course/58852/info)
 
