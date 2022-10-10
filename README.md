@@ -16,6 +16,7 @@ to sites where I got certificates
 
 > **Courses, websites and books from which I learn and practise programming:**
 >> ["Поколение Python": курс для начинающих / "Python Generation": A course for beginners](https://stepik.org/course/58852/info)
+>> ["Поколение Python": курс для продвинутых / "Python Generation": a course for the advanced](https://stepik.org/course/68343/info)
 
 > **My certificates, diplomas:**
 >> ["Поколение Python": курс для начинающих / "Python Generation": A course for beginners](https://stepik.org/cert/1691205)
