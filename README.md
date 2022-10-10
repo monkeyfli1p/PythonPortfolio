@@ -14,7 +14,7 @@ and possible training mini-projects were taken from, as well as referrals
 to sites where I got certificates 
 (required to prove that I have taken certain courses and gained programming experience).__
 
-> **Websites, courses with tasks, mini-projects:**
+> **Courses, websites and books from which I learn and practise programming:**
 >> ["Поколение Python": курс для начинающих / "Python Generation": A course for beginners](https://stepik.org/course/58852/info)
 
 > **My certificates, diplomas:**
